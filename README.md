@@ -1,8 +1,9 @@
 # 💫 About Me:
 
 <p align="center">
-  <img width="400" src="https://tenor.com/bFIyd.gif"/>
+  <img width="400" src="https://media.tenor.com/8Y-xK5G2_5QAAAAd/luffy-smile.gif" alt="Luffy Smile"/>
 </p>
+
 Yo Nakama! 🏴‍☠️ I'm a Software Engineer who loves bridging the gap between Backend Development and Artificial Intelligence. I build scalable APIs and bring Machine Learning and Deep Learning models into production. My daily ship consists of FastAPI, Go, Laravel, and NestJS, anchored by PostgreSQL. I also navigate the infrastructure seas using Docker and VPS to keep everything running smoothly. Let's sail the tech world and build something awesome together! 🚀
 
 ## 🌐 Socials:

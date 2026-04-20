@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi there! 👋 I'm a Software Engineer with a strong passion for Backend Development and Artificial Intelligence. I enjoy building scalable architectures, optimizing databases, and deploying machine learning models into production. 
+
+🔭 **I’m currently working on** Refactoring e-commerce monoliths into microservices architectures using **Go** and **PostgreSQL**, and building robust APIs.
+
+👯 **I’m looking to collaborate on** Open-source projects related to backend systems (especially using **Laravel**, **NestJS**, or **Go**) and AI integrations using **TensorFlow** or **PyTorch**.
+
+🤝 **I’m looking for help with** Exploring advanced DevOps practices, scaling containerized applications with **Docker**, and optimizing VPS management.
+
+🌱 **I’m currently learning** Advanced inferencing pipelines for machine learning, deep feature extraction, and new patterns in backend system architecture.
+
+💬 **Ask me about** RESTful API design, database optimization, end-to-end machine learning lifecycles, and my experience building multi-tenant architectures. 
+
+⚡ **Fun fact** When I'm not writing code or configuring servers, I enjoy photography and experimenting with digital image generation (especially anime-style art)! 📸✨
 
 
 ## 🌐 Socials:

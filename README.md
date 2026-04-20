@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <img width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp0NXp0NXp0NXp0NXp0NXp0NXp0NXp0NXp0NXp0NXp0NXp0NXp0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/S5n7WKHGM5x2ugr7E7/giphy.gif" alt="Luffy Nakama"/>
+  <img width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZyZ2w0aWNudDRobHV5cGlsOHU2NGtldDFteGN2YmV1NDIxNHI5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nXD4QP8PUXn5H5XsZZ/giphy.gif" alt="Luffy Nakama"/>
 </p>
 Yo Nakama! 🏴‍☠️ I'm a Software Engineer who loves bridging the gap between Backend Development and Artificial Intelligence. I build scalable APIs and bring Machine Learning and Deep Learning models into production. My daily ship consists of FastAPI, Go, Laravel, and NestJS, anchored by PostgreSQL. I also navigate the infrastructure seas using Docker and VPS to keep everything running smoothly. Let's sail the tech world and build something awesome together! 🚀
 

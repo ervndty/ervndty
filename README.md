@@ -4,6 +4,7 @@
 </p>
 Yo Nakama! 🏴‍☠️ I'm a Software Engineer who loves bridging the gap between Backend Development and Artificial Intelligence. I build scalable APIs and bring Machine Learning and Deep Learning models into production. My daily ship consists of FastAPI, Go, Laravel, and NestJS, anchored by PostgreSQL. I also navigate the infrastructure seas using Docker and VPS to keep everything running smoothly. Let's sail the tech world and build something awesome together! 🚀 letsgoo
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ervndty_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ervin-aditya-101949297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ervinaditya35@gmail.com) 
 
